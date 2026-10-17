@@ -1,0 +1,60 @@
+# Neon Horizon — Omarchy theme by synthalorian
+# Deep midnight purple under a hot pink sun, with neon cyan grid lines.
+
+mode = "dark"
+
+accent = "#ff4fa3"
+selection = "#3e2559"
+muted = "#7c6a9c"
+
+background = "#1a1029"
+dark_background = "#140c21"
+darker_background = "#0d0717"
+lighter_background = "#261a3a"
+
+foreground = "#e6dcf5"
+dark_foreground = "#a493c4"
+light_foreground = "#f0e8fb"
+bright_foreground = "#fdf7ff"
+
+red = "#ff5f7e"
+yellow = "#ffd36e"
+orange = "#ff9a5c"
+green = "#6ef2b0"
+cyan = "#4fe3f0"
+blue = "#7aa2ff"
+magenta = "#ff6ad5"
+brown = "#8a4b6b"
+
+bright_red = "#ff8aa0"
+bright_yellow = "#ffe49c"
+bright_green = "#9cf7cb"
+bright_cyan = "#8af0f7"
+bright_blue = "#a3bfff"
+bright_magenta = "#ff9ae2"
+
+# Window borders: hot pink sun fading into neon cyan.
+hyprland_active_border = "rgba(ff4fa3ee) rgba(4fe3f0ee) 45deg"
+hyprland_inactive_border = "rgba(3a2d52aa)"
+
+# Terminal and selection colors.
+cursor = "#fdf7ff"
+selection_foreground = "#fdf7ff"
+selection_background = "#3e2559"
+
+color0 = "#1a1029"
+color1 = "#ff5f7e"
+color2 = "#6ef2b0"
+color3 = "#ffd36e"
+color4 = "#7aa2ff"
+color5 = "#ff6ad5"
+color6 = "#4fe3f0"
+color7 = "#e6dcf5"
+color8 = "#7c6a9c"
+color9 = "#ff8aa0"
+color10 = "#9cf7cb"
+color11 = "#ffe49c"
+color12 = "#a3bfff"
+color13 = "#ff9ae2"
+color14 = "#8af0f7"
+color15 = "#fdf7ff"
